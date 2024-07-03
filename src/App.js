@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <>
-      <h1>Welcome to my app</h1>
+      <h1>Adbidder Kafka events</h1>
       <MyEventButton1 />
       <br />
       <MyEventButton2 />
